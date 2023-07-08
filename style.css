@@ -257,7 +257,7 @@ html {
 /* Sobre nós */
 
 .sobre-nos {
-    background-image: linear-gradient(rgba(168, 107, 107, 0.986), rgb(173, 90, 125));
+    background-image: linear-gradient(rgba(168, 107, 107, 0.986), rgb(179, 109, 138));
     width: 100%;
     padding-bottom: 5rem;
     color: rgb(10, 10, 10);
@@ -265,6 +265,7 @@ html {
     align-items: center;
     justify-content: center;
 }
+
 
 .contentsobre {
 
