@@ -147,7 +147,7 @@ html {
 }
 
 .btn button:hover {
-    border: 1px solid #e90d86;
+    border: 1px solid #f0e8ec;
     background-color: transparent;
     color: #0c0b0c;
 }
@@ -266,7 +266,6 @@ html {
     justify-content: center;
 }
 
-
 .contentsobre {
 
     display: flex;
@@ -286,7 +285,7 @@ html {
     height: 400px;
     margin-top: 10rem;
     margin-left: 10rem;
-    border: 2px solid rgb(155, 155, 155);
+    border: 2px solid rgb(7, 6, 6);
 }
 
 .contentsobre h2 {
@@ -309,7 +308,7 @@ html {
     justify-content: Center;
     align-items: center;
     font-size: 1.8rem;
-    color: white;
+    color: rgb(7, 6, 6);
     padding-bottom: 4rem;
 }
 
@@ -336,7 +335,7 @@ html {
 }
 
 .contatos-secao div:hover {
-    color: #060aff;
+    color: #000000;
 }
 
 .tabela-dias {
@@ -349,8 +348,8 @@ table {
 }
 
 thead {
-    background: #555555;
-    color: white;
+    background: #030303;
+    color: rgb(8, 7, 7);
     font-weight: bold;
 }
 
