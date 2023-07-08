@@ -97,7 +97,7 @@ html {
 .first-section {
     height: 100vh;
     width: 100vw;
-    background-image: linear-gradient(rgba(194, 93, 93, 0.849), rgba(135, 70, 113, 0.8)), url(./img/tp-perfect-pink-nails.jpg);
+    background-image: linear-gradient(rgba(194, 93, 93, 0.849), rgba(160, 90, 137, 0.8)), url(./img/tp-perfect-pink-nails.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -138,16 +138,16 @@ html {
     height: 60px;
     cursor: pointer;
     text-transform: uppercase;
-    background-color: #c95481;
+    background-color: #c02e7e;
     border-radius: 10px;
-    color: rgb(255, 248, 248);
+    color: rgb(254, 248, 255);
     font-weight: 700;
     transition: all 400ms ease-in;
     margin-top: 5rem;
 }
 
 .btn button:hover {
-    border: 1px solid #f0e8ec;
+    border: 1px solid #dd12cc;
     background-color: transparent;
     color: #0c0b0c;
 }
@@ -241,7 +241,7 @@ html {
     width: 200px;
     height: 35px;
     margin-top: 0.5rem;
-    background-color: #7a16a1;
+    background-color: #000000;
     border-radius: 5px;
     text-transform: uppercase;
     cursor: pointer;
@@ -285,7 +285,7 @@ html {
     height: 400px;
     margin-top: 10rem;
     margin-left: 10rem;
-    border: 2px solid rgb(7, 6, 6);
+    border: 2px solid rgb(5, 5, 5);
 }
 
 .contentsobre h2 {
